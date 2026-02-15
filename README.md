@@ -1,13 +1,8 @@
 📊 AI-Augmented Exploratory Data Science Platform
 
+<img width="1762" height="948" alt="1" src="https://github.com/user-attachments/assets/99a33df5-116a-4b73-bd24-1cd9ee5898cb" />
 
-
-
-
-
-
-
-
+<img width="1763" height="1000" alt="2" src="https://github.com/user-attachments/assets/c4b476a0-d893-4187-8b06-27b006bac7c2" />
 
 
 
@@ -147,30 +142,45 @@ Surfacing structural insights
 This platform supports early-stage ML pipeline development:
 
 ✔ Data quality assessment
+
 ✔ Preprocessing validation
+
 ✔ Feature distribution understanding
+
 ✔ Relationship exploration
+
 ✔ Rapid hypothesis testing
+
 
 It accelerates:
 
 Dataset readiness for modeling
 
 🛠 Technical Stack
-Category	Tools
-Language	Python
-Data Processing	Pandas
-Visualization	Matplotlib
-Interface	Streamlit
-AI Orchestration	LangChain
-LLM	OpenAI
-Environment Management	python-dotenv
+
+Language	-- Python
+
+Data Processing	--> Pandas
+
+Visualization	--> Matplotlib
+
+Interface	--> Streamlit
+
+AI Orchestration	--> LangChain
+
+LLM	--> OpenAI
+
+Environment Management	--> python-dotenv
+
 🧪 Reproducibility Guide
-Clone Repository
+
+1. Clone Repository
+
 git clone https://github.com/your-username/CSV-Analyzer.git
+
 cd CSV-Analyzer
 
-Create Virtual Environment
+2. Create Virtual Environment
 python -m venv venv
 
 
@@ -185,16 +195,17 @@ Mac/Linux:
 
 source venv/bin/activate
 
-Install Dependencies
+3.Install Dependencies
+
 pip install -r requirements.txt
 
-Configure API Key
+4.Configure API Key
 
 Create .env:
 
 OPENAI_API_KEY=your_key_here
 
-Run Application
+5. Run Application
 streamlit run main.py
 
 🧠 Skills Demonstrated
