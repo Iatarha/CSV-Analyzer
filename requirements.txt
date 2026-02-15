@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+duckduckgo-Search
+wikipedia
+streamlit
+langchain-experimental
+tabulate
+matplotlib.pyplot
